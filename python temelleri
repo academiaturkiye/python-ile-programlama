@@ -1,0 +1,5 @@
+#print()
+
+print('Python programlama dili')
+print("Python programlama dili")
+print("""Python programlama dili""")
